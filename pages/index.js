@@ -2,7 +2,7 @@ import { ParallaxProvider } from "react-scroll-parallax";
 import Contact from "../views/Contact";
 import FullPageScroll from "../components/FullPageScroll";
 import Header from "../components/Header";
-import MySelf from "../views/MySelf";
+import MySelf from "../views/Myself";
 import Outer from "../views/Outer";
 import Projects from "../views/Projects";
 import Reviews from "../views/Reviews";

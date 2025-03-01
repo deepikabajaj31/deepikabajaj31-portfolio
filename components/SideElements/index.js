@@ -2,7 +2,7 @@ import React from "react";
 import GitHub from "../SVGs/GitHub";
 import Instagram from "../SVGs/Instagram";
 import LinkedIn from "../SVGs/LinkedIn";
-import LeetCode from "../SVGs/LeetCode";
+import LeetCode from "../SVGs/Leetcode";
 
 const SideElementsItem = ({ items, position }) => {
   return (
