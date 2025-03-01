@@ -1,0 +1,29 @@
+{
+  "name": "deepikabajaj31-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.3",
+    "next": "15.2.0",
+    "next-pwa": "^5.6.0",
+    "react": "^19.0.0",
+    "react-animated-cursor": "^2.11.2",
+    "react-dom": "^19.0.0",
+    "react-scroll-parallax": "^3.4.5",
+    "react-spring": "^9.7.5",
+    "sass": "^1.85.1",
+    "use-dencrypt-effect": "^2.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.0"
+  }
+}
