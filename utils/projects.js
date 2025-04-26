@@ -19,6 +19,22 @@ const projects = {
       ],
     },
     {
+      image: "/assets/projects/Streamify.png",
+      label: "Featured Project",
+      title: "Streamify",
+      link: "https://streamify-deepika.web.app/",
+      githubLink: "https://github.com/deepikabajaj31/Streamify",
+      description:
+        "Developed a high-performance video streaming platform using TypeScript, Tailwind CSS, Redux Toolkit, and the YouTube Data API, featuring a user-friendly interface, infinite scrolling for seamless video loading, and significant improvements in performance and user engagement.",
+      techs: [
+        "Typescript",
+        "React Js",
+        "Youtube Data API",
+        "Firebase",
+        "Tailwind CSS",
+      ],
+    },
+    {
       image: "/assets/projects/Hotstar.png",
       label: "Featured Project",
       title: "Hotstar-clone",
